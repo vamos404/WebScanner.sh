@@ -1,4 +1,8 @@
 #!/bin/bash
+# Author: Nazir Bin Nazrul
+# Description: This will help to scann any Web Application within short time.
+# Date creation: 31/10/2024
+# Last Modified: 31/10/2024
 
 echo
 echo -e "Select scanning tool: \n1= nmap\n2= nikto\n3= dirb\n4= enum4linux"
